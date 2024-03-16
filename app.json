@@ -1,0 +1,19 @@
+{
+    "name": "youtube thumbnail downloder",
+    "description": "A youtube thum downloder bot.",
+    "repository": "https://github.com/Rohanthakur360/youtube-thumbnail-downloder",
+    "keywords": [
+       
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "here is your bot token"
+        },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
