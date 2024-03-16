@@ -1,7 +1,7 @@
 {
-    "name": "youtube thumbnail downloder",
-    "description": "A youtube thum downloder bot.",
-    "repository": "https://github.com/Rohanthakur360/youtube-thumbnail-downloder",
+    "name": "userinfobot",
+    "description": "userinfo bot herlp you",
+    "repository": "https://github.com/Rohanthakur360/UserInfoBot",
     "keywords": [
        
         "telegram bot",
